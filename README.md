@@ -1,6 +1,6 @@
 -  Hello, I’m ojaswi Dahare! 🤝
- ==========================================================
-   👩🏻‍🎓 Data Analyst | Business Analyst | Data Engineer |Fresher | Former Intern 
+-  ==========================================================
+-   �🏻‍🎓 Data Analyst | Business Analyst | Data Engineer |Fresher | Former Intern 
     @AMDOCS-INUNITY
    
 -  👧 ABOUT ME
@@ -11,16 +11,16 @@
    Strong problem-solving skills, having high grasping power and  eager to apply 
    analytical expertise in a data-driven environment.
 
--  💻 TECH STACK & TOOLS:
+-  💻TECH STACK & TOOLS👩🏻‍💻:
 -  Languages: Python, SQL, HTML, CSS.
-   To👩🏻‍💻ols: Excel, Power BI, PowerPoint, word, Jupyter Notebook, vscode.
-   Soft Skills:Communication, team player, self-motivated, Adaptive
-   Technologies: DL/ML, Github, Figma, MySQL
+-  Tools: Excel, Power BI, PowerPoint, word, Jupyter Notebook, vscode.
+-  Soft Skills:Communication, team player, self-motivated, Adaptive
+-  Technologies: DL/ML, Github, Figma, MySQL
 
 -  🤝 Get In Touch
-  🔗 https://www.linkedin.com/in/ojaswi-dahare-67b52a25b/
-   📩 ojaswidahare18@gmail.com
-   📞 Phone no.: 9175237750
+- 🔗 https://www.linkedin.com/in/ojaswi-dahare-67b52a25b/
+-  📩 ojaswidahare18@gmail.com
+-  📞 Phone no.: 9175237750
 
 -  🚀 SUMMARY
    I’m currently learning Dashboarding and gaining meaningful insights from raw 
